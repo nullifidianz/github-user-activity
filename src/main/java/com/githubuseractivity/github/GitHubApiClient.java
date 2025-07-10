@@ -5,7 +5,7 @@ import java.util.List;
 
 public class GitHubApiClient {
     public List<GitHubEvent> getUserEvents(String username) {
-        // Aqui você implementará a chamada HTTP para a API do GitHub
+        // TODO: implementar a chamada HTTP para a API do GitHub
         return null;
     }
 }
