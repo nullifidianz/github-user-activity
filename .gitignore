@@ -1,0 +1,48 @@
+# Compilados Java
+*.class
+
+# Diretórios de build
+/target/
+/out/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs
+/.idea/
+/*.iml
+*.ipr
+*.iws
+*.sw?
+/.vscode/
+/*.sublime-workspace
+/*.sublime-project
+
+# Arquivos de dependências baixadas
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Arquivos de teste
+/test-output/
+/surefire-reports/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.~*
+
+# Arquivos de configuração pessoais
+*.env
+*.local
+
+# Arquivos de cobertura de testes
+/coverage/
+jacoco.exec
+
+# Arquivos de cache
+/.cache/
